@@ -16,7 +16,11 @@ https://github.com/adash333/test-web-ionic3
 
 ## Installation
 
-- 作成中
+    $ git clone https://github.com/adash333/rails5_test_api.git
+    $ cd rails5_test_api
+    $ bundle install
+    $ rails db:migrate
+    $ rails s
 
 ## Anything Else
 
