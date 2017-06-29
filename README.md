@@ -1,25 +1,32 @@
-# README
+# Rails5 APIによるtest_api (ionic3アプリとセット)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails5 API + ionic3によるアプリの例の、Rails5 APIの方のコードです。
 
-Things you may want to cover:
+詳細は以下  
+Rails5＠HerokuとIonic3アプリで通信  
+http://twosquirrel.mints.ne.jp/?p=18600
 
-* Ruby version
+ionic3アプリのコードは、以下のリンク  
+https://github.com/adash333/test-web-ionic3
 
-* System dependencies
+## Requirement
 
-* Configuration
+- Ruby 2.3.3p222
+- Rails 5.1.0
 
-* Database creation
+## Installation
 
-* Database initialization
+- 作成中
 
-* How to run the test suite
+## Anything Else
 
-* Services (job queues, cache servers, search engines, etc.)
+このコードは、以下の2つサイトのソースコードを参考にしています。
 
-* Deployment instructions
+angular4とrails5をスッと使ってみる  
+kanadai  
+2017年05月06日に更新  
+http://qiita.com/kanadai/items/0034f0c0fe26efab2f2b
 
-* ...
-"# rails5_test_api" 
+## Author
+
+adash333
